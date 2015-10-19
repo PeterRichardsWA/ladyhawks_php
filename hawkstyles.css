@@ -1,0 +1,38 @@
+#wrapper {
+	margin-bottom: 40px;
+}
+#welcome {
+	margin: 5px auto;
+	padding: 10px;
+	font-size: .8em;
+	font-family: "tahoma, helvetica, verdana";
+	background-color: #79E62C;
+}
+.page {
+	padding: 5px;
+}
+.large {
+	font-size: 1em;
+	color: #E6010B;
+}
+#video{
+	margin: 5px auto 20px auto;
+	text-align:center;
+}
+#head {
+	margin-bottom: 10px;
+	text-align:center;
+}
+#footer {
+	margin-bottom: 10px;
+	text-align: center;
+}
+#payment {
+	border: 2px solid #E6010B;
+	border-radius: 4px;
+	margin: 5px;
+	padding: 10px;
+}
+body {
+	margin: 3px;
+}
