@@ -1,0 +1,7 @@
+{
+    "name": "RichWEB/ladyhawkswreath",
+    "description": "Wreath sales for LadyHawks",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
